@@ -1,0 +1,1 @@
+sc create startNode binpath= "C:\dhcpManager\npmStart.bat" displayname= "startNode" start= auto 
